@@ -4,5 +4,5 @@ function holis() {
 }
 
 function malafama(){
-    return "japish";
+    return "japish japish";
 }
