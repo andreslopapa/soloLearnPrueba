@@ -1,5 +1,6 @@
 function holis() {
     let a="falopa";
+    let b="travesti";
     return a;
 }
 
