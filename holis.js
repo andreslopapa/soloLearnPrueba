@@ -1,3 +1,3 @@
 function holis(){
-    return "holis pedazo de puto";
+    return "holis pedazo de putoxxx";
 }
