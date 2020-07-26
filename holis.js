@@ -1,3 +1,3 @@
 function holis(){
-    return "holis pedazo de homo erectus";
+    return "holis pedazo de homo erectus no binario heterorepresor";
 }
